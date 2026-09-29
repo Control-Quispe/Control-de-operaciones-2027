@@ -1,0 +1,7 @@
+{
+  "name": "Control de Operaciones — Grupo Quispe",
+  "description": "Sistema BOH de control operativo, auditoría de Food Cost (F&B) y gestión diaria para los restaurantes del Grupo Quispe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
